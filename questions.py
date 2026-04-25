@@ -6,4 +6,10 @@ questions = [
         "image": "images/q1.png",
         "answer": "7"
     }
+     {
+        "type": "NAT",
+        "category": "Math",
+        "question": "With a straight cut you can slice a circular piece of paper into two pieces. A second cut that crosses the first cut will produce a maximum of four pieces. What is the maximum number of pieces that you can get with a total of four straight cuts?",
+        "answer": "11"
+    }
 ]
